@@ -19,24 +19,24 @@ Fique a vontade para entrar em contato comigo:
   <summary>⚙️ <b>Backend</b></summary>
   <br>
 
-  ![Java](https://img.shields.io/badge/java-%23256b8b.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/spring%20boot-%23256b8b.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23256b8b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-256b8b?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-256b8b?style=for-the-badge&logo=redis&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle Database" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" alt="Redis" />
 
 </details>
 
 <details>
   <summary>🧩 <b>Nível introdutório</b></summary>
   <br>
-  
-  ![Python](https://img.shields.io/badge/python-256b8b?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23256b8b.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-256b8b?style=for-the-badge&logo=PHP&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-256b8b?style=for-the-badge&logo=laravel&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23256b8b.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%23256b8b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
 
 </details>
 
@@ -44,16 +44,16 @@ Fique a vontade para entrar em contato comigo:
   <summary>🛠️ <b>Sistemas, ferramentas e serviços</b></summary>
   <br>
 
-  ![Windows](https://img.shields.io/badge/Windows-256b8b?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-256b8b?style=for-the-badge&logo=linux&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23256b8b.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-256b8b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-256b8b.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-256b8b.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%23256b8b.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%23256b8b.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-256b8b?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-256b8b.svg?style=for-the-badge&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" alt="Eclipse IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Microsoft Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle APEX" />
+  <img src="https://i.imgur.com/1XAyG5X.png" width="50" alt="Burp Suite" />
 
 </details>
 
