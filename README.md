@@ -16,7 +16,7 @@ Fique a vontade para entrar em contato comigo:
 ### Tecnologias e ferramentas
 
 <details>
-  <summary>⚙️ <b>Backend</b></summary>
+  <summary>⚙️ <b>Backend (foco principal)</b></summary>
   <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
