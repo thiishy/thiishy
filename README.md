@@ -99,7 +99,7 @@ Fique a vontade para entrar em contato comigo:
   - versionamento do banco de dados com **Flyway**
   - uso do **Docker** com **Docker Compose** para deploy **fácil** e **rápido** em qualquer lugar
 
-  **Backend:** Java, Spring Boot, PostgreSQL, Docker (com Docker Compose)
+  **Backend:** Java, Spring Boot, PostgreSQL, Docker (com Docker Compose), Flyway
   
   [![Acessar repositório do EncurtaUrl](https://img.shields.io/badge/EncurtaUrl-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiishy/EncurtaUrl)
 </details>
