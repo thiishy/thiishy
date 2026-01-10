@@ -71,11 +71,11 @@ Fique a vontade para entrar em contato comigo:
   - hashing de senhas utilizando **Argon2id**, [método recomendado pela OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#argon2id).
   - autenticação e autorização com **tokens JWT**
 
-  Fiz a implementação da **IA (ChatGPT)** na aplicação com **Spring AI**, permitindo ao usuário gerar insights sobre sua vida financeira em apenas um clique.
+  Fiz a implementação da **IA (ChatGPT)** na aplicação com **Spring AI**, permitindo ao usuário gerar insights sobre sua vida financeira em apenas **um clique**.
 
   Você pode ver todas as minhas contribuições [aqui!](https://github.com/thiishy/Soldi/commits/develop/?author=thiishy)
   
-  **Backend:** Java (Spring Boot), PostgreSQL<br>
+  **Backend:** Java, Spring Boot, PostgreSQL<br>
   **Frontend:** React, TypeScript, Vite
 
   [![Acessar repositório do Soldi](https://img.shields.io/badge/Soldi-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiishy/Soldi)
@@ -84,16 +84,22 @@ Fique a vontade para entrar em contato comigo:
 <details>
   <summary><b>🔗 EncurtaUrl - API REST para encurtamento de URLs</b></summary>
   
-  Comecei o desenvolvimento do projeto enquanto iniciava meus estudos com Java e Spring Boot, seguindo boas práticas de API, arquitetura e validação.
+  Comecei o desenvolvimento do projeto enquanto iniciava meus estudos com Java e Spring Boot, seguindo boas práticas de arquitetura, APIs REST, segurança e validação.
   
-  Até então, pude aprender e aplicar:
-  - **redirecionamento simples e eficiente** com mapeamento do código curto para a URL original
-  - **validação de URI/URL**, garantindo que apenas links válidos sejam encurtados
-  - **geração de códigos únicos** usando [SecureRandom](https://docs.oracle.com/javase/8/docs/api/java/security/SecureRandom.html) e lógica para minimizar colisões
-  - **paginação** em endpoints para melhorar performance e reduzir a carga no banco de dados
-  - **tratamento global e personalizado de exceções** para respostas mais claras e seguras da API
+  Até então, apliquei:
+  - criação de uma documentação **clara** para fácil reprodução
+  - exposição de **UUIDs** na API, mantendo IDs sequenciais apenas internamente para evitar ataques de força bruta/enumeração de recursos
+  - hashing de senhas utilizando **Argon2id**, [método recomendado pela OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#argon2id).
+  - autenticação e autorização com **tokens JWT**
+  - tratamento global e personalizado de exceções para respostas mais **claras** e **seguras** da API
+  - redirecionamento **simples** e **eficiente** com mapeamento do código curto para a URL original
+  - validação **rigorosa** de URI/URL, garantindo que apenas links válidos sejam encurtados
+  - **geração de códigos únicos** usando [SecureRandom](https://docs.oracle.com/javase/8/docs/api/java/security/SecureRandom.html) e **lógica para minimizar colisões**
+  - paginação em endpoints para **melhorar performance** e **reduzir a carga** no banco de dados
+  - versionamento do banco de dados com **Flyway**
+  - uso do **Docker** com **Docker Compose** para deploy **fácil** e **rápido** em qualquer lugar
 
-  **Backend:** Java (Spring Boot), PostgreSQL
+  **Backend:** Java, Spring Boot, PostgreSQL, Docker (com Docker Compose)
   
   [![Acessar repositório do EncurtaUrl](https://img.shields.io/badge/EncurtaUrl-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiishy/EncurtaUrl)
 </details>
