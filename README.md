@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=50&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=ol%C3%A1+mundo!+~(%CB%98%E2%96%BE%CB%98~))](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=50&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=ol%C3%A1+mundo!+~(%CB%98%E2%96%BE%CB%98~)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=50&pause=1000&color=000000&vCenter=true&width=500&height=60&lines=ol%C3%A1+mundo!+~(%CB%98%E2%96%BE%CB%98~)">
+  <img alt="Olá Mundo!" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=50&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=ol%C3%A1+mundo!+~(%CB%98%E2%96%BE%CB%98~)">
+</picture>
 <img src="https://i.imgur.com/SDAobJU.gif" width="250px" align="right">
 
 Meu nome é **Thiago Monteiro**, tenho 20 anos e sou desenvolvedor backend e estudante de Desenvolvimento de Software Multiplataforma na Fatec Praia Grande.
