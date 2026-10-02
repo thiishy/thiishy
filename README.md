@@ -10,10 +10,13 @@ As vezes eu faço alguns side projects também. :octocat:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
   <img src="https://i.imgur.com/Ixl7Vch.png" alt="Oracle Database" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
