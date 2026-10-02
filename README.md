@@ -10,8 +10,8 @@ As vezes eu faço alguns side projects também. :octocat:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
@@ -22,6 +22,7 @@ As vezes eu faço alguns side projects também. :octocat:
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker (ou Podman)" />
 </div>
 
 <br>
